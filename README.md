@@ -1,6 +1,6 @@
 # Solving challenge in golang
 
-The challenge in challenge_test.go file with tests.
+The challenge solution in challenge_test.go file with tests.
 
 ## To run tests
 
